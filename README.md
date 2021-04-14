@@ -1,6 +1,3 @@
-# Info
-About me
-
 # Learned:
 HTML -> Experience: Beginner
 CSS -> Experience: Beginner
